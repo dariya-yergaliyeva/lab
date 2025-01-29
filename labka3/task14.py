@@ -1,0 +1,13 @@
+import function1
+print(function1.ouns(273))
+print(function1.centigrade(273))
+print(function1.count(35, 94))
+print(function1.filter_prime([1, 2, 3, 4, 5, 6, 7, 8,9, 10, 11, 12, 13]))
+print(function1.new_strings("Hello"))
+print(function1.inverse("My friends and I will create out startup"))
+print(function1.three([1, 2, 3, 3, 4]))
+print(function1.agint([8, 6, 5 , 0, 0, 7]))
+print(function1.volume(5))
+print(function1.unique([3, 3, 4, 4, 1, 2, 7,7 ]))
+print(function1.polindrom("level"))
+function1.histograma([5, 9, 2])
