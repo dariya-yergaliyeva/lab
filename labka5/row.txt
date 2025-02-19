@@ -1,0 +1,16 @@
+ab abbb abob a
+Robots for Ocean Research
+Robots have revolutionized the way scientists explore and study the ocean. The vast depths of the sea, many of which remain unexplored, present challenges that are difficult and dangerous for humans to overcome. Underwater robots, often referred to as autonomous underwater vehicles (AUVs) and remotely operated vehicles (ROVs), have become essential tools for marine research.
+AUVs are self-guided and can travel deep into the ocean without human control in real-time. They are programmed to collect data, map the ocean floor, measure water temperature, and monitor marine life. These robots help researchers reach remote areas that were previously inaccessible.
+abbb abb a
+ROVs, on the other hand, are controlled by operators from the surface and are connected to a ship via cables. They are equipped with cameras, lights, and robotic arms, allowing scientists to explore shipwrecks, study underwater volcanoes, and observe sea creatures in their natural habitat.
+Ocean research robots play a critical role in:
+y_dariya y_anel b_assel y_bek d_nurasyl d_serdar
+Types of Ocean Research Robots
+Autonomous Underwater Vehicles (AUVs)
+Self-guided and operate without a human pilot.
+(ROVs)
+ControlledFrom a ship via cables.
+Small, energy-efficient vehicles designed to move vertically and horizontally in the water.
+Stationary platforms deployed to the seafloor.
+
