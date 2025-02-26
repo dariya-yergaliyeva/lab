@@ -1,0 +1,2 @@
+file B.txt have been openedfile A.txt have been opened
+file A.txt have been opened

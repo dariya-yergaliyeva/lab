@@ -1,0 +1,1 @@
+file T.txt have been opened
