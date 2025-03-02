@@ -1,8 +1,9 @@
 import time
 import math
+from functools import reduce
 #1
 numbers = [2, 3, 4, 5]
-q=list(map(lambda x: pow(x, 2), numbers))
+q=reduce(lambda x, y: x * y, numbers)
 print(q)
 #2
 ex2="My Friends and I will create our oen Startup"
@@ -20,7 +21,7 @@ else:
 inp=int(input())
 inp2=int(input())
 time.sleep(inp2/1000)
-outp=math.sqrt(inp)
+outp=inp**0.5
 print(f"squere root of {inp} after {inp2} miliseconds is {outp}")
 #ex5
 ex5=(1, 1, 1)
